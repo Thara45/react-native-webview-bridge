@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.license       = package['license']
   s.requires_arc  = true
   s.homepage      = "https://github.com/TharaViswa/react-native-webview-bridge"
-  s.source        = { :git => 'https://github.com/TharaViswa/react-native-webview-bridge.git' }
+  s.source        = { :git => 'https://github.com/Thara45/react-native-webview-bridge.git' }
   s.platform      = :ios, '8.0'
   s.source_files  = "ios/**/*.{h,m}"
 
